@@ -1,0 +1,12 @@
+[submodule "jest-1"]
+	path = jest-1
+	url = https://github.com/MatAndreoli/jest-1
+[submodule "jest-2"]
+	path = jest-2
+	url = https://github.com/MatAndreoli/jest-2
+[submodule "jest-3"]
+	path = jest-3
+	url = https://github.com/MatAndreoli/jest-3
+[submodule "jest-4"]
+	path = jest-4
+	url = https://github.com/MatAndreoli/jest-4
