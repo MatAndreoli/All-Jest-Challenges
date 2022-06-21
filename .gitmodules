@@ -10,3 +10,6 @@
 [submodule "jest-4"]
 	path = jest-4
 	url = https://github.com/MatAndreoli/jest-4
+[submodule "jest-5-6"]
+	path = jest-5-6
+	url = https://github.com/MatAndreoli/jest-5-6
