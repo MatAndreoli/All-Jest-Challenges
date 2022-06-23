@@ -1,0 +1,22 @@
+{
+  "name": "all-jest-challenges",
+  "version": "1.0.0",
+  "description": "Here are all the repos to the Jest challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preupdateAll": "(cd jest-1 && git pull -r) &&(cd jest-2 && git pull -r) &&(cd jest-3 && git pull -r) &&(cd jest-4 && git pull -r)",
+    "updateAll": "(cd jest-5-6 && git pull -r) && (cd jest-7 && git pull -r)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatAndreoli/All-Jest-Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatAndreoli/All-Jest-Challenges/issues"
+  },
+  "homepage": "https://github.com/MatAndreoli/All-Jest-Challenges#readme"
+}
